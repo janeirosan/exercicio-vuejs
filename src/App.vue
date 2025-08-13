@@ -7,5 +7,7 @@
 </template>
 
 <style scoped>
-  
+  .im-so-angry {
+    background-color: red;
+  }
 </style>
